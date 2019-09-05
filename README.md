@@ -6,5 +6,5 @@ This project features CAD models and "meshed" objects ready for 3D printing the 
 
 - The CAD models (`.slvs`) can be edited with [solvespace](http://solvespace.com/index.pl). For 3D printing, use the `.stl` files. 
 - The motor holder and spool are designed for NEMA17 motors. 
-- The spool is assembled using M3 screws. 
+- The spool is assembled using M3 screws. For the lines, we strongly advise to use [braided fishing lines](https://www.kastking.com/kastking-superpower-green-braided-fishing-line_p0182.html) instead of monofilament lines.
 - For attaching the tag, we advise to print and cut out the [template](tagholder/TagSheet.pdf) and fold the upper part twice by 1 cm as marked.
